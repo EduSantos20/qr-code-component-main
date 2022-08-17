@@ -23,7 +23,7 @@ Achei bem pratico e divertido, porém acho que tive uma dificuldade em deixar os
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://edusantos20.github.io/qr-code-component-main/)
 
 ## My process
 
